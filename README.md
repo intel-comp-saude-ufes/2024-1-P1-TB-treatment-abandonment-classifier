@@ -1,9 +1,9 @@
 # Classificador de abandono do tratamento da turbeculose
 
 ## Visão geral do projeto 
-Seja bem vindo ao repositório sobre o classificador de abandono do tratamento da tuberculose 
+Seja bem vindo ao repositório sobre o classificador de abandono do tratamento da tuberculose.
 
-Este repositório contém arquivos com implementações em python e dados para um projeto sobre marchine learning com o objetivo de prever o abandono de pacientes no tratamento da tuberculose, onde foram usados varios metodos e tecnicas para se chegar ao resultado desejado.
+Este repositório contém arquivos com implementações em python e dados para um projeto sobre a utilização do machine learning com o objetivo de prever o abandono de pacientes no tratamento da tuberculose, no qual foram usados diferentes métodos e técnicas para se chegar ao resultado desejado.
 
 Imagem dos arquivos do projeto:
 
@@ -18,15 +18,15 @@ Imagem dos arquivos do projeto:
 
 
 ## Banco Dados
-Os bancos de dados pode ser encontrado na pasta **data** com um arquivo zipado com o titulo : *casos_tuberculose_2015-2022* com os dados a serem extraidos e também possuimos um arquivo csv com o nome *tuberculose_imputed*  para salvar as variáveis escolhidas para o projeto.
+Os bancos de dados podem ser encontrados na pasta **data** com um arquivo zipado com o titulo : *casos_tuberculose_2015-2022* com os dados originais a serem extraidos e, também, um arquivo csv com o nome *tuberculose_imputed* que é o dataset após a imputação de dados faltantes, utilizado na modelagem.
 
 ![alt text](imgReadme/data.png)
 
 ## Instalação
 
-Para executar o projeto é necessário fazer umas instalações importantes antes de tudo (lembrando que está sendo usado Ubuntu 22.04).
+Para executar o projeto é necessário fazer umas instalações importantes antes de tudo (OBS: está sendo usado Ubuntu 22.04).
 
-Primeiramente é necessário ter os arquivos do programa apenas clonando na pasta que deseja: 
+Primeiramente, é necessário ter os arquivos do programa apenas clonando na pasta que deseja: 
 
 ```
 git clone https://github.com/intel-comp-saude-ufes/2024-1-P1-TB-treatment-abandonment-classifier.git
@@ -43,7 +43,7 @@ Dentro da pasta raiz que o repositório foi clonado insira o seguinte comando:
 pip3 install -r requirements.txt
 ```
 
-Caso o usuário quiser usar jupyter instale-o através do comando: 
+Caso o usuário queira usar Jupyter, instale-o através do comando: 
 ```
 pip install notebook
 ```
@@ -52,12 +52,12 @@ pip install notebook
 
 Para executar o programa, basta executar o comando:
 
-Aqui você vera as informaçoes analisadas: 
+Para ver o Jupyter com a análise dos dados: 
 ```
 jupyter abandono_trat_tuberculose_analise.ipynb
 ```
 
-Aqui é os dados sendo modelados :
+Para ver o Jupyter com a modelagem:
 ```
 jupyter modelando.ipynb
 ```
