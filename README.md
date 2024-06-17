@@ -3,7 +3,10 @@
 ## Visão geral do projeto 
 Seja bem vindo ao repositório sobre o classificador de abandono do tratamento da tuberculose.
 
-Este repositório contém arquivos com implementações em python e dados para um projeto sobre a utilização do machine learning com o objetivo de prever o abandono de pacientes no tratamento da tuberculose, no qual foram usados diferentes métodos e técnicas para se chegar ao resultado desejado.
+Este repositório contém arquivos com implementações em python e dados para um projeto sobre a utilização do machine learning com o objetivo de prever o abandono de pacientes no tratamento da tuberculose, no qual foram usados diferentes métodos e técnicas para se chegar ao resultado desejado.i
+
+Link para o video de apresentação do projeto: 
+[Video do classificador de abandono do tratamento da turbeculose](https://drive.google.com/file/d/1DG4Dt9a-_FpQX_us7dWkDAaqLSUZ3Klj/view) 
 
 Imagem dos arquivos do projeto:
 
