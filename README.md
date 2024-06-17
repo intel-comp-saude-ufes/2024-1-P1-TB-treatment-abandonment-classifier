@@ -54,12 +54,12 @@ Para executar o programa, basta executar o comando:
 
 Para ver o Jupyter com a análise dos dados: 
 ```
-jupyter abandono_trat_tuberculose_analise.ipynb
+jupyter-lab abandono_trat_tuberculose_analise.ipynb
 ```
 
 Para ver o Jupyter com a modelagem:
 ```
-jupyter modelando.ipynb
+jupyter-lab modelando.ipynb
 ```
 
 ## Contribuição
