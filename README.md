@@ -43,9 +43,9 @@ Dentro da pasta raiz que o repositório foi clonado insira o seguinte comando:
 pip3 install -r requirements.txt
 ```
 
-Caso o usuário queira usar Jupyter, instale-o através do comando: 
+Caso o usuário queira usar JupyterLab, instale-o através do comando: 
 ```
-pip install notebook
+pip install jupyterlab
 ```
 
 ## Executar projeto
